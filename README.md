@@ -25,7 +25,7 @@ Clone this repository to your local machine:
 
 shell
 Copy code
-git clone https://github.com/your-username/real-time-face-detection.git
+git clone https://github.com/gawali1256/python-face-blur.git
 Navigate to the project directory:
 
 shell
